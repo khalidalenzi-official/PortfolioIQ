@@ -7,7 +7,7 @@ Professional portfolio tracker for Saudi Tadawul stocks. Live prices via Alpha V
 
 Professional portfolio analytics dashboard for Saudi Tadawul equities featuring live pricing, advanced risk analytics, and portfolio optimization.
 
-[![Live Dashboard](https://img.shields.io/badge/Live%20Demo-View%20Dashboard-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khalidalenzi-official/PortfolioIQ/blob/main/portfolio-analytics-dashboard-perfect.index.html)
+[![Live Dashboard](https://img.shields.io/badge/Live%20Demo-View%20Dashboard-blue?style=for-the-badge&logo=github&logoColor=white)](http://htmlpreview.github.io/?https://github.com/khalidalenzi-official/PortfolioIQ/blob/main/portfolio-analytics-dashboard-perfect.index.html)
 
 ## ✨ **Key Features**
 
