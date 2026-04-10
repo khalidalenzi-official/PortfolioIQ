@@ -9,6 +9,8 @@ Professional portfolio analytics dashboard for Saudi Tadawul equities featuring 
 
 [![Live Dashboard](https://img.shields.io/badge/Live%20Demo-View%20Dashboard-blue?style=for-the-badge&logo=github&logoColor=white)](http://htmlpreview.github.io/?https://github.com/khalidalenzi-official/PortfolioIQ/blob/main/portfolio-analytics-dashboard-perfect.index.html)
 
+> ⚠️ **Preview is limited** (no full Chart.js support). **Complete experience requires HTML download**: [Download (85KB)](https://github.com/khalidalenzi-official/PortfolioIQ/blob/main/portfolio-analytics-dashboard-perfect.index.html) — all charts & interactions work perfectly.
+
 ## ✨ **Key Features**
 
 | Feature | Description |
