@@ -20,4 +20,6 @@ Professional portfolio analytics dashboard for Saudi Tadawul equities featuring 
 | **Export** | Holdings & transactions CSV download |
 
 # Live demo
-https://htmlpreview.github.io/?https://raw.githubusercontent.com/khalidalenzi-official/portfolio-dashboard/main/index.html
+https://htmlpreview.github.io/portfolio-analytics-dashboard-perfect.index.html
+	
+
