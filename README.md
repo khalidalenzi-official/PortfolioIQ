@@ -18,3 +18,6 @@ Professional portfolio analytics dashboard for Saudi Tadawul equities featuring 
 | **Optimizer** | Markowitz Modern Portfolio Theory weights |
 | **Transactions** | Buy/sell tracking with commission calculator |
 | **Export** | Holdings & transactions CSV download |
+
+# Live demo
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/khalidalenzi-official/portfolio-dashboard/main/index.html
